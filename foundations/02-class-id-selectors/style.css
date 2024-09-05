@@ -1,0 +1,21 @@
+/* odd Elements have a rule for the whole HTML, so point 1&3 are not excplicit in a "fistElement" or "secondElement" */
+
+.oddElement{
+    background-color: rgb(216, 121, 165);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.thirdElement {
+    font-size: 24px;
+}
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthElement {
+    background-color: rgb(202, 252, 126);
+    font-size: 24px;
+ font-weight: bold;   
+}
